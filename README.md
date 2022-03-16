@@ -9,7 +9,23 @@
 The task is completely solved with the help of Terraform
 
 Components:
-
+* Resource group
+* Key vault secret
+* Storage:
+    * Account
+    * Container
+    * Blob
+* Virtual network
+* Subnet
+* Public ip
+* Network interface
+* Windows virtual machine
+* Virtual machine:
+    * Shutdown schedule
+    * Extension
+* SQL
+    * Server
+    * Database
 
 
 ## Terraform Commands
